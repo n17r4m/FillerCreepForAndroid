@@ -5,7 +5,7 @@ import android.graphics.Bitmap;
 public class GraphicalFillerCreepView {
     Bitmap bitmap = null;
     FillerCreep fillerCreep = null;
-    int blockSize = 11;
+    int blockSize = 20;
 
     public GraphicalFillerCreepView(FillerCreep fillerCreep) {
         this.fillerCreep = fillerCreep;
